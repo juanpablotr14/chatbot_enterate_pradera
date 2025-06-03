@@ -32,7 +32,7 @@ chatbot/
 2. Instala las dependencias:
   ```bash
    npm install
-  ```
+
 
 ## 🚀 Ejecución
 
