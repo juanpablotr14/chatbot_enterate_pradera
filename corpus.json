@@ -1,0 +1,63 @@
+[
+  {
+    "pregunta": "¿Cuál es el horario de los buses?",
+    "respuesta": "Por supuesto, estas son las rutas de los buses con sus horarios.",
+    "imagenes": ["./assets/respuestas/horario_buses.jpeg"]
+  },
+  {
+    "pregunta": "¿Cuál es el número de la policía?",
+    "respuesta": "El número de la policía es 123. Aquí tienes la imagen con los cuadrantes:",
+    "imagenes": ["./assets/respuestas/cuadrantes_policia.jpeg"]
+  },
+  {
+    "pregunta": "¿Cuáles son las loterías de hoy?",
+    "respuesta": "Aquí tienes la imagen de todas las loterías de hoy:",
+    "imagenes": ["./assets/respuestas/loterias_hoy.jpeg"]
+  },
+  {
+    "pregunta": "¿Cuales son las farmacias de turno?",
+    "respuesta": "Claro que si, aquí tienes la imagen de las farmacias de turno:",
+    "imagenes": ["./assets/respuestas/farmacias_turno.jpeg"]
+  },
+  {
+    "pregunta": "¿Cuál es son los cuadrantes de la policia?",
+    "respuesta": "Claro, aquí tienes la imagen con los cuadrantes de la policía:",
+    "imagenes": ["./assets/respuestas/cuadrantes_policia.jpeg"]
+  },
+  {
+    "pregunta": "¿Cual es horario de la franja informativa?",
+    "respuesta": "Nuestras franjas informativas se transmiten de 8 a.m. a 10 a.m., todos los días."
+  },
+  {
+    "pregunta": "¿Cuales son los restaurantes del dia?",
+    "respuesta": "Aquí tienes los restaurantes del día:",
+    "imagenes": [
+      "assets/respuestas/restaurantes_1.jpeg",
+      "assets/respuestas/restaurantes_2.jpeg"
+    ]
+  },
+  {
+    "pregunta": "Quisiera saber sobre información de la parroquia Inmaculada Concepción o la iglesia",
+    "respuesta": "Claro, aquí tienes la información de la parroquia Inmaculada Concepción:",
+    "imagenes": [
+      "./assets/respuestas/parroquia_inmaculada_concepcion.jpeg",
+      "./assets/respuestas/iglesia_inmaculada_concepcion.jpeg"
+    ]
+  },
+  {
+    "pregunta": "¿Cual es el numero de los bomberos de pradera valle?",
+    "respuesta": "Este es el numero de los bomberos de Pradera Valle: +57 350 4572545. Si necesitas más información, no dudes en preguntar."
+  },
+  {
+    "pregunta": "¿Cual es el numero de tránsito municipal?",
+    "respuesta": "El número del transito municipal es +57 321 7241484. Si necesitas más información, no dudes en preguntar."
+  },
+  {
+    "pregunta": "¿Cual es el numero de la registraduria municipal?",
+    "respuesta": "El número de la registraduria municipal es +57 316 5666970. Si necesitas más información, no dudes en preguntar."
+  },
+  {
+    "pregunta": "¿Cual es el numero de la personeria municipal?",
+    "respuesta": "El número de la personeria municipal es +57 321 7491022. Si necesitas más información, no dudes en preguntar."
+  }
+]
