@@ -39,7 +39,7 @@ chatbot/
 1. Ejecutar el bot:
    ```bash
    node index.js
-  ```
+  ``
 
 2. Escanea el código QR con WhatsApp para conectar tu sesión.
 
