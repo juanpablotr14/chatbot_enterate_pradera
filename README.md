@@ -27,7 +27,7 @@ chatbot/
    ```bash
    git clone https://github.com/juanpablotr14/chatbot_enterate_pradera.git
    cd entérate-pradera-bot
-  ```
+  ``
 
 2. Instala las dependencias:
   ```bash
