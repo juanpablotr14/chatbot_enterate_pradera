@@ -27,19 +27,19 @@ chatbot/
    ```bash
    git clone https://github.com/juanpablotr14/chatbot_enterate_pradera.git
    cd entérate-pradera-bot
-  ```
+   ```
 
 2. Instala las dependencias:
   ```bash
    npm install
-```
+   ```
 
 ## 🚀 Ejecución
 
 1. Ejecutar el bot:
    ```bash
    node index.js
-  ```
+   ```
 
 2. Escanea el código QR con WhatsApp para conectar tu sesión.
 
